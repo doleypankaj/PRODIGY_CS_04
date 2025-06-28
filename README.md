@@ -18,6 +18,7 @@ pynput library
 
 🚨 Ethical Note
 Keyloggers can be dangerous tools. Use them only in legal and ethical scenarios such as:
+
 Parental control (with consent)
 Self-monitoring and debugging
 Cybersecurity research in lab environments
